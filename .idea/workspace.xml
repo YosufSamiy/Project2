@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5148a9fd-122b-482e-bac5-1c856f13b899" name="Default Changelist" comment="" />
+    <list default="true" id="5148a9fd-122b-482e-bac5-1c856f13b899" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Dashboard/layout/menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Dashboard/layout/menu.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -123,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/GalleryProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -134,12 +140,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\BESAN\Desktop\project2\resources\views\Dashboard" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\BESAN\Desktop\project2\resources\views\Dashboard" />
       <recent name="C:\Users\BESAN\Desktop\project2\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BESAN\Desktop\project2\resources\views\Dashboard" />
     </key>
   </component>
   <component name="RunManager">
@@ -165,6 +171,10 @@
       <workItem from="1608933442851" duration="3645000" />
       <workItem from="1608967365581" duration="1045000" />
       <workItem from="1608974738400" duration="17000" />
+      <workItem from="1609002428968" duration="1252000" />
+      <workItem from="1609018410060" duration="1550000" />
+      <workItem from="1609094317662" duration="790000" />
+      <workItem from="1609098305423" duration="874000" />
     </task>
     <servers />
   </component>
@@ -180,10 +190,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608931294618" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608974748147">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1609095260888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608974748147" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609095260888" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1606766723519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
